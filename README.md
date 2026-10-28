@@ -1,5 +1,5 @@
-# java-dsa-portfolio
-"My continuous development pipeline tracking daily data structure and algorithm solutions in Python."
+# leetcode-dsa-portfolio
+My continuous development pipeline tracking daily data structure and algorithm solutions in Python.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
